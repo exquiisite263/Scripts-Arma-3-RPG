@@ -1,0 +1,1 @@
+Hier entsteht in Kürze ein Script was es euch ermöglicht in Arma 3 einen Präsidenten unter Zivilisten zu wählen der 3 Wochen lang neue Gesetze erlassen kann, die purge starten kann, Steuern und Preise ändern kann. Es wird auch ein Gouverneur convoy geben.
